@@ -1,4 +1,4 @@
-def using_times
+def 3.
 	#your code here
 end
 
